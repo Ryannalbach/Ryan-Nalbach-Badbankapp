@@ -4,9 +4,9 @@ function Home(){
         <Card
         bgcolor="primary"
         txtcolor="white"
-        header="Bad-Bank Landing Page"
-        title="Welcome to Bad-Bank"
-        body="This is an app I created for my MIT xPro coding bootcamp. Create an account and log in to use this app! You can deposit and withdraw money plus you can track all of your transaction data using this app."
+        header="MIT Coding banking exercise"
+        title="This is a banking app using react"
+        body="This react app is created using license from MIT pro X materials as a project for 1/19/23, you can create an account and deposit ficitional funds and withdraw, I hope you enjoy."
         text={(<img src="icon.png" className="img-fluid" alt="Responsive Image" />)}
          />
     )
